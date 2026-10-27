@@ -4,6 +4,10 @@
 
 *My journey into tech didn't begin with code. It began with curiosity, a science degree, and years spent helping others learn.*
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&width=550&lines=From+Classroom+to+Code;Building+Solutions+with+Purpose;Python+%7C+Java+%7C+Cloud;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
+
+
 ### 🚀 About Me
 
 - 🎓 Former educator turned software developer, currently developing my skills at **WeThinkCode_**.
